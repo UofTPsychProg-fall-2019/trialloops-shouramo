@@ -2,8 +2,8 @@
 
 """
 Rating faces on a likert scale 
-
-Authr: Moaz Shoura
+This code includes both parts of the assignment
+Author: Moaz Shoura
 """
 
 from __future__ import division
